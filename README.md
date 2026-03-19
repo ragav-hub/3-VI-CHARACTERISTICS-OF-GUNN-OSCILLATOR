@@ -69,3 +69,4 @@ In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this cas
 
 **Result:**
 
+Thus,the experiment is studied and verified
