@@ -70,11 +70,6 @@ In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this cas
 
 
 <img width="741" height="989" alt="image" src="https://github.com/user-attachments/assets/0776e5b8-373a-4453-a38f-6b9c9668851d" />
-
-
-
-
-
 **C.Analysis of Results: (Write your own)**
 
 The I–V characteristics showed a distinct negative resistance region, confirming Gunn effect operation, and the measured frequency and power output increased with appropriate biasing, validating the diode’s microwave generation behavior.
